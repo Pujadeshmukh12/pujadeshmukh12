@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [TATA 1mg Clone](https://github.com/Aditi101049/1mg-clone)
 
-- 👨‍💻 All of my projects are available at [https://pujadeshmukh1.github.io/](https://pujadeshmukh1.github.io/)
+- 👨‍💻 All of my projects are available at [https://pujadeshmukh12.github.io/](https://pujadeshmukh12.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScripts, ReactJs, TypeScript, NodeJs, , MySQL, ..**
 
@@ -36,5 +36,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pujadeshmukh1" /></p>
 
-![p2](https://user-images.githubusercontent.com/105989237/196279750-04ba181c-0e24-4d6d-b578-22bc6dea5e50.png)">
-    <title>Document</title>
+![p2](https://user-images.githubusercontent.com/105989237/196279750-04ba181c-0e24-4d6d-b578-22bc6dea5e50.png)
+    
