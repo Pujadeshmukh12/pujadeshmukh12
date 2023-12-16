@@ -29,26 +29,9 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
-  <img src="https://th.bing.com/th/id/OIP.bI8KDjd8-nDvzTX_Uok7FwHaHa?w=196&h=196&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="aws" width="50" height="40"/> 
   
-  <img src="https://th.bing.com/th/id/OIP.3yIVq4yaJnIb40HUu7GZxAHaIc?w=171&h=195&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="aws" width="50" height="40"/> 
-  
-  <img src="https://th.bing.com/th/id/OIP.eQRqVTzi6ep_wZku3iDmEAHaIZ?pid=ImgDet&rs=1" alt="aws" width="50" height="40"/> 
-
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="aws" width="50" height="40"/> 
-
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="aws" width="50" height="40"/> 
-
-  
-
-  
-  
-  
-
-
-     
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pujadeshmukh&show_icons=true&locale=en&layout=compact" alt="pujadeshmukh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pujadeshmukh1" /></p>
