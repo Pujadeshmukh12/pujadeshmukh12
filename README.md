@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Puja Deshmukh</h1>
 <h3 align="center">A passionate full Stack Developer From India</h3>
-<h2 align="center">Full Stack Developer with 6 months of practical experience in designing, developing, and implementing diverse applications and solutions across various technologies and programming languages. Eager to apply my extensive development knowledge and hands-on technical skills in a dynamic role as a Full Stack Developer.</h2>
+<h2 align="center">Full Stack Developer with 1 +year of practical experience in designing, developing, and implementing diverse applications and solutions across various technologies and programming languages. Eager to apply my extensive development knowledge and hands-on technical skills in a dynamic role as a Full Stack Developer.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujadeshmukh&label=Profile%20views&color=0e75b6&style=flat" alt="pujadeshmukh" /> </p>
 
@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://pujadeshmukh1.github.io/](https://pujadeshmukh1.github.io/)
 
-- 💬 Ask me about **HTML, CSS, JavaScripts, Java, DSA, SpringBoot, MySQL, Hibernate..**
+- 💬 Ask me about **HTML, CSS, JavaScripts, ReactJs, TypeScript, NodeJs, , MySQL, ..**
 
-- 📫 How to reach me **deshmukpooja976@gmail.com**
+- 📫 How to reach me **pujadeshmukh566@gmail.com**
 
 - 📄Resume <a href="https://drive.google.com/file/d/1POfwdDo2PwkGXabF2foxdE80kwXqJipL/view" target="_blank" onclick="window.open(this.href); return false;">Click Here</a>
 
