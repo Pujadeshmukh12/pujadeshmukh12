@@ -36,6 +36,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pujadeshmukh1" /></p>
 
-![p2](https://user-images.githubusercontent.com/105989237/196279750-04ba181c-0e24-4d6d-b578-22bc6dea5e50.png)
-, initial-scale=1.0">
+![p2](https://user-images.githubusercontent.com/105989237/196279750-04ba181c-0e24-4d6d-b578-22bc6dea5e50.png)">
     <title>Document</title>
